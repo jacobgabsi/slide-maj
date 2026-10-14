@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Petit lanceur de Slide. Compile pour .NET Framework 4.8, fourni d'origine avec
+       Windows 10 et 11 : cet exe demarre donc sur un PC qui n'a AUCUN .NET recent,
+       ce qui est tout l'interet (slide.exe, lui, exige .NET 10).
+       Le resultat est recopie a la racine du projet sous le nom Slide.exe. -->
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>lanceur</RootNamespace>
+    <AssemblyName>Slide</AssemblyName>
+    <StartupObject>lanceur.Lanceur</StartupObject>
+    <MyType>Empty</MyType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OptionStrict>On</OptionStrict>
+    <OptionExplicit>On</OptionExplicit>
+    <Deterministic>true</Deterministic>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+</Project>

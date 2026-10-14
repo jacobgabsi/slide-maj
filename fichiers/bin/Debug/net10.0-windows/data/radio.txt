@@ -1,0 +1,218 @@
+Lovely                                           http://lovely.ice.infomaniak.ch/lovely-128.mp3
+Heart80                                          https://icecast.thisisdax.com/Heart80sMP3
+Frequence 3                                      http://ice.stream.frequence3.net/frequence3-128.mp3
+Love radio                                       http://listen.radionomy.com/love-radio.m3u
+Contact                                          http://radio-contact.ice.infomaniak.ch/radio-contact-high
+M2 Love                                          http://www.m2radio.fr/pls/m2love.m3u
+Eko des Garrigues                                http://91.121.159.124:8000/eko-des-garrigues-128k.mp3.m3u 
+Maxi France                                      http://stream.maxifrance.fr:8358/stream 
+Hit1                                             https://www.hits1radio.com/?proradio-popup=1
+dHits Paris                                      http://go.dhits.net/live.mp3 
+AstraMixx                                        http://streaming.radionomy.com:8000/AstraMixx.m3u 
+Radio Meuh                                       http://radiomeuh.ice.infomaniak.ch/radiomeuh-64.aac.m3u 
+Radio RVA                                        http://rva.ice.infomaniak.ch/rva-high.mp3
+Radio Maritima                                   http://radiomaritima.streamakaci.com/radiomaritima.mp3
+Elium Club Dance                                 http://streaming.radionomy.com/Elium-ClubDance
+Happy FM                                         http://happyfm.ice.infomaniak.ch/happyfm-128.mp3
+radio 432 jazz                                   http://streaming.radionomy.com/AxelAime432Hz
+Addict Lounge                                    http://radio666.net:8000
+Addict Star                                      http://stream1.addictradio.net/addictstar.mp3
+Bayou Blue Radio                                 http://bayoublueradio.com:8000/live
+Chante France                                    http://stream1.evasionfm.com/Chante_France
+Cristal FM                                       http://radiocristal.ice.infomaniak.ch/radiocristal-high.mp3
+Djamradio                                        http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+Evasion FM                                       http://stream1.evasionfm.com/Yvelines
+FG Chic                                          http://radiofg.impek.com:80/fgc
+FG Non Stop                                      http://radiofg.impek.com/fge
+France Info                                      http://direct.franceinfo.fr/live/franceinfo-midfi.mp3 
+French kiss fm                                   http://178.63.62.145/;stream.mp3
+Fun Radio France                                 http://streaming.radio.funradio.fr:80/fun-1-44-128
+GENERATION SOUL DISCO FUNK                       http://www.generationdiscofunk.com/pls/hd.m3u 
+Hotmix Radio                                     http://streamingads.hotmixradio.fm/hotmixradio-dance-128.mp3
+Hotmix Radio Funky                               http://streaming.hotmixradio.fm/hotmixradio-funky-128.mp3
+Radio87 bruit nature                             http://live2.radio87.fr
+Radio serenity                                   http://streaming.radionomy.com/wiccaradio
+Rancho FM                                        http://streaming.radionomy.com/rancho
+RFM Night Fever                                  http://rfm-wr2-mp3-128.scdn.arkena.com/rfm.mp3
+Sweet FM                                         http://dedibox-linux.sweetfm.fr:8000/lms
+Live9                                            http://www.Live9.fr/ecoute/192.m3u 
+AtineaNature                                     http://listen.radionomy.com/atineanatures
+Aufilduson-80s                                   http://listen.radionomy.com/aufilduson-80s
+C9 RADIO (Paris)                                 http://stream.c9.fr/c9.mp3 
+Canal B                                          http://stream.levillage.org/canalb.m3u 
+Cafpowhitradio                                   http://listen.radionomy.com/cafpowhitradio.m3u 
+Couleur FM                                       http://live.francra.org:8000/CouleursFM.m3u
+EnjoyStation                                     http://www.enjoystation.net/player/mp3.m3u
+Fidélité Nantes                                  http://80.82.229.202/fidelite.mp3
+Free Wave Online                                 http://free.wave.online.fr/xmediaplayer/php/all.m3u
+International Rare Groove                        http://listen.radionomy.com/international-rare-groove.m3u
+OÜI FM                                           http://stream.ouifm.fr/ouifm-high.mp3
+OÜI FM Blues'n'Rock                              http://bluesnrock.stream.ouifm.fr/ouifmbluesnrock-128.mp3
+OÜI FM Ganja                                     http://ganja.stream.ouifm.fr/ouifmganja-128.mp3
+R-One Radio                                      http://www.r-one-radio.eu/stream/r-one-radio.m3u
+Radio Courtoisie                                 http://www.radiocourtoisie.fr/courtoisie.m3u
+Spreading-Light                                  http://listen.radionomy.com/spreading-light.m3u
+Sing Sing                                        http://stream.sing-sing.org:8000/singsing128
+Swiss Jazz                                       http://www.radioswissjazz.ch/live/mp3.m3u
+Swiss Pop                                        http://www.radioswisspop.ch/live/mp3.m3u
+Transparence                                     http://5.39.79.229:8000/listen.pls 
+Wit FM                                           http://broadcast.infomaniak.net:80/start-witfm-high.mp3 
+Nostalgie Jazz                                   http://jazz.ice.infomaniak.ch/jazz-128.mp3
+Nostalgie Love                                   http://nostalgielove.ice.infomaniak.ch/nostalgielove-128.mp3
+Nostalgie Top1000                                http://nostalgietop1000.ice.infomaniak.ch/nostalgietop1000-128.mp3
+Nostalgie Summer                                 http://nostalgiespecial.ice.infomaniak.ch/nostalgiespecial-128.mp3
+Nostalgie SoulParty                              http://nostalgiesoulparty.ice.infomaniak.ch/nostalgiesoulparty-128.mp3
+Nostalie Chanson Francaise                       http://nostalgiechansonfrancaise.ice.infomaniak.ch/nostalgiechansonfrancaise-128.mp3
+Nrj                                              http://mp3lg4.scdn.arkena.com/8432/nrj_205243.mp3
+Absolute Hits*                                   http://direct-radio.fr/files/absolute-hits.m3u
+Ado FM                                           http://broadcast.infomaniak.ch/player/player.swf?sLive=start-adofm
+Alouette                                         http://www.alouette.fr/alouette.m3u
+BFM radio                                        http://viphttpplayers.yacast.net/V4/bfm/bfm.asx
+Chanteurs disparus                               http://www.chanteurs.org/radio.wax
+Cherie FM Jazzy*                                 http://mp3.live.tv-radio.com/2607/cherie_jazzy/che_114021.mp3
+Cherie FM                                        http://mp3.live.tv-radio.com/cherie_fm/all/che_124310.mp3
+Cherie FM Zen                                    http://mp3.live.tv-radio.com/cherie_fm_zen/all/che_122753.mp3
+Cherie FM Love Song                              http://mp3.live.tv-radio.com/cherie_fm_love_song/all/che_140854.mp3
+Cherie FM Romantic[]                             http://adwzg.tdf-cdn.com/3698/nrj_3698.mp3
+Cherie FM Frenchy                                http://mp3.live.tv-radio.com/cherie_fm_frenchy/all/che_123008.mp3
+Cherie FM Seducteur                              http://mp3.live.tv-radio.com/2048/cherie_fm_crooners/che_190007.mp3
+Cherie FM Dolce vita                             http://mp3.live.tv-radio.com/2047/cherie_fm_dolce_vita/che_185747.mp3
+Cherie FM Duo                                    http://mp3.live.tv-radio.com/cherie_fm_duos/all/che_145639.mp3
+Cherie FM At Work                                http://mp3.live.tv-radio.com/cherie_fm_pop_soul/all/che_141749.mp3
+Cherie FM Spa                                    http://mp3.live.tv-radio.com/2470/cherie_fm_spa/che_182321.mp3
+Cherie FM After Work                             http://mp3.live.tv-radio.com/2488/cherie_fm_afterwork/che_162832.mp3
+Cherie FM Pop                                    http://mp3.live.tv-radio.com/2485/cherie_fm_pop/che_162631.mp3
+Cherie FM Ete                                    http://mp3.live.tv-radio.com/2596/cherie_ete/che_094941.mp3
+Cherie FM 90                                     http://mp3.live.tv-radio.com/2605/cherie_90/che_111353.mp3
+Cherie FM 80                                     http://mp3.live.tv-radio.com/2603/cherie_80/che_105645.mp3
+Cherie FM Latino                                 http://mp3.live.tv-radio.com/2599/cherie_latino/che_104348.mp3
+Cherie FM Fashion                                http://mp3.live.tv-radio.com/2609/cherie_fashion/che_115954.mp3
+Cherie FM Fitness                                http://mp3.live.tv-radio.com/2601/cherie_fitness/che_105007.mp3
+Cherie FM Coffe House                            http://mp3.live.tv-radio.com/2784/cherie_fm_coffee_house/che_095925.mp3
+Cherie FM In Store                               http://mp3.live.tv-radio.com/2611/cherie_in_store/che_120728.mp3
+Cherie FM Zen                                    http://mp3.live.tv-radio.com/cherie_fm_zen/all/che_122753.mp3
+Cherie FM Gold                                   http://mp3.live.tv-radio.com/cherie_fm_golds/all/che_123506.mp3
+Cherie FM Love song                              http://mp3.live.tv-radio.com/cherie_fm_love_song/all/che_140854.mp3
+Collines FM                                      http://www.tv-radio.com/cgi-bin/tagger.pl?tag=site&amp;metafile=collines/collines-20k.asx                                                              "
+Connexion FM                                     http://listen.radionomy.com/connexion-fm.m3u
+Contact FM                                       http://broadcast.infomaniak.ch/radio-contact-high.mp3
+Contact manhattan                                http://vipicecast.yacast.net/manhattan
+Contact maxximum                                 http://vipicecast.yacast.net/maxximum
+Cool Hits*                                       http://direct-radio.fr/files/cool-hits.m3u
+DI FM eurodance                                  http://www.di.fm/wma/eurodance.asx
+DI FM hard house                                 http://www.di.fm/wma/hardhouse.asx
+DI FM hardcore                                   http://www.di.fm/wma/hardcore.asx
+DI FM hardtrance                                 http://www.di.fm/wma/hardtrance.asx
+DI FM house                                      http://www.di.fm/wma/deephouse.asx
+DI FM jazz                                       http://www.di.fm/wma/jazz.asx
+DI FM musique classique                          http://www.di.fm/wma/classical.asx
+DI FM techno                                     http://www.di.fm/wma/classictechno.asx
+DI FM trance                                     http://www.di.fm/wma/trance.asx
+DI FM vocale trance                              http://www.di.fm/wma/vocaltrance.asx
+Electro ice radio                                http://electro-ice.com/playeur/wmp.asx
+Enjoy station                                    http://www.enjoystation.net/player/wmp.asx
+Europe 1                                         http://webradio.europe1.fr/V4/europe1/europe1.asx
+Evasion FM                                       http://www.evasionfm.com/flash/playerStream.swf
+FG america                                       http://fg6.impek.tv/
+FG chic                                          http://fgc.impek.tv/
+FG dance                                         http://fgd.impek.tv/
+FG radio                                         http://fg.impek.tv:80
+FG underground                                   http://ufg.impek.tv/
+FG vintage                                       http://fgv.impek.tv/
+Fip                                              http://direct-radio.fr/files/fip.m3u
+Forum FM                                         http://broadcast.infomaniak.ch/player/player.swf?sLive=start-forum
+France bleu                                      http://www.tv-radio.com/station/france_bleu_ile-de-france_mp3/france_bleu_ile-de-france_mp3-128k.m3u
+France culture                                   http://mp3.live.tv-radio.com/franceculture/all/franceculturehautdebit.mp3
+France info                                      http://players.creacast.com/creacast/france_info/playlist.m3u
+France inter                                     http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3
+France musique                                   http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3
+Frequence +                                      http://www.tv-radio.com/station/frequence_plus/frequence_plus.m3u
+Frequence 3                                      http://streams.frequence3.net/mp3-192.asx
+Frequence 3                                      http://streams.frequence3.net/mp3-192.asx
+Frequence horizon                                http://broadcast.infomaniak.ch/frequencehorizon-high.mp3.asx
+Frequence jazz                                   http://broadcast.infomaniak.ch/jazzradio-high.mp3.asx
+Fun radio                                        http://radio.funradio.fr/funradio.asx
+Fun radio                                        http://streaming.radio.funradio.fr:80/fun-1-44-96
+Fun radio Belgique                               http://broadcast.infomaniak.ch/funradiobe-high.mp3.asx
+Generation FM                                    http://broadcast.infomaniak.net/generationfm-high.mp3
+Hits my music Power*                             http://direct-radio.fr/files/hit-s-my-music-power.m3u
+Hits my music Zen*                               http://direct-radio.fr/files/hit-s-my-music-zen.m3u
+Hot Mix                                          http://www.hotmixradio.fr/stream/hotmix.m3u
+Just FM*                                         http://direct-radio.fr/files/just--fm.m3u
+Kiss FM                                          http://www.tv-radio.com/station/kissfm-mp3/kissfm-mp3-128k.asx
+Le mouv                                          http://mp3.live.tv-radio.com/lemouv/all/lemouvhautdebit.mp3
+LiteFM*                                          http://streema.com/radios/play/24177
+M2 radio                                         http://direct-radio.fr/files/m2radio.m3u
+Maximum radio                                    mms://vipmms9.yacast.net/apy_newhit
+Mixx radio dance                                 http://www.mixxradio.fr/stream/mixxmedia128.asx
+Mixx radio gold                                  http://www.mixxradiogold.fr/stream128k.asx
+Mona FM                                          http://broadcast.infomaniak.ch/monafm-high.mp3.asx
+Montagne FM                                      http://www.tv-radio.com/station/montagne/montagne.m3u
+Nostalgie                                        http://player.nostalgie.fr/V4/nostalgie/nostalgie.asx
+Nostalgie british american                       mms://vipnrj.yacast.net/nostalgie_webradio03
+Nostalgie chansons francaises                    mms://vipnrj.yacast.net/nostalgie_webradio07
+Nostalgie classic 80                             mms://vipnrj.yacast.net/nostalgie_webradio01
+Nostalgie dance                                  mms://vipnrj.yacast.net/nostalgie_webradio04
+Nostalgie rock 60                                mms://vipnrj.yacast.net/nostalgie_webradio08
+Nostalgie rock 70                                mms://vipnrj.yacast.net/nostalgie_webradio09
+Nostalgie rock legend                            mms://vipnrj.yacast.net/nostalgie_webradio02
+Nostalgie slow legend                            mms://vipnrj.yacast.net/nostalgie_webradio05
+Nostalgie soul legend                            mms://vipnrj.yacast.net/nostalgie_webradio06
+NRJ                                              http://player.nrj.fr/V4/nrj/nrj.asx
+NRJ all french                                   mms://vipnrj.yacast.net/nrj_webradio13
+NRJ Belgique                                     http://broadcast.infomaniak.net/nrjbe-high.mp3.asx
+NRJ dance                                        mms://vipnrj.yacast.net/nrj_webradio04
+NRJ electro                                      mms://vipnrj.yacast.net/nrj_webradio11
+NRJ hits*                                        mms://vipnrj.yacast.net/nrj_webradio01
+NRJ master mix                                   mms://vipnrj.yacast.net/nrj_webradio02
+NRJ music awards                                 mms://vipnrj.yacast.net/nrj_webradio07
+NRJ nouveautes                                   mms://vipnrj.yacast.net/nrj_webradio14
+NRJ pop / rock                                   mms://vipnrj.yacast.net/nrj_webradio03
+NRJ tech                                         mms://vipnrj.yacast.net/nrj_webradio12
+Oceane FM                                        http://www.tv-radio.com/station/oceane/oceane-128k.asx
+Oui FM                                           http://broadcast.infomaniak.ch/ouifm-high.mp3.asx
+Oui FM                                           http://www.ouifm.fr/player/metafile/Ouifm-hautdebit-wmp.asx
+Oui FM 2                                         http://www.ouifm.fr/player/metafile/Ouifm2-hautdebit-wmp.asx
+Oui FM 3                                         http://www.ouifm.fr/player/metafile/Ouifm3-hautdebit-wmp.asx
+Paris one                                        http://www.paris-one.com/pls/radio.asx
+Puls radio                                       http://www.pulsradio.com/pls/puls-wmp.asx
+Radio classique                                  http://players.creacast.com/creacast/classique/playlist.m3u
+Radio espace                                     http://broadcast.infomaniak.ch/radioespace-high.mp3
+Radio espace dancefloor                          http://broadcast.infomaniak.ch/espace-dancefloor-high.mp3
+Radio espace disco                               http://broadcast.infomaniak.ch/espace-disco-high.mp3
+Radio espace vintage                             http://broadcast.infomaniak.ch/espace-vintage-high.mp3
+Radio junior                                     http://www.radiojunior.com/secours/secours.asx
+Radio Mt Blanc                                   http://www.tv-radio.com/station/mont-blanc/mont-blanc.m3u
+Radio Mozart                                     http://direct-radio.fr/files/radio-mozart.m3u
+Radio Plenitude*(music spark)                    http://listen.radionomy.com/radio-plenitude.m3u
+Radio scoop                                      http://mp3.live.tv-radio.com/scooplyon/all/scooplyon-128k.mp3
+Radio scoop 80                                   http://web4.radioscoop.com/scoop1.mp3
+Radio scoop musicpod                             http://web4.radioscoop.com/scoop2.mp3
+Radio scoop vintage                              http://web4.radioscoop.com/scoop3.mp3
+Radio Smiley*                                    http://direct-radio.fr/files/radio-smiley.m3u
+Radio totem                                      http://www.radio-totem.net/inc/swf/player.swf
+RFM                                              http://player.rfm.fr/V4/player_rfm/rfm.asx
+Rire et chansons                                 http://player.rireetchansons.fr/V4/rireetchansons/rireetchansons.asx
+RMC                                              http://cache.yacast.fr/V4/rmc/rmc.asx
+RSR couleur 3                                    http://broadcast.infomaniak.ch/rsr-couleur3-high.mp3.asx
+RSR espace 2                                     http://broadcast.infomaniak.ch/rsr-espace2-high.mp3.asx
+RSR la 1                                         http://broadcast.infomaniak.ch/rsr-la1ere-high.mp3.asx
+RSR option musique                               http://broadcast.infomaniak.ch/rsr-optionmusique-high.mp3.asx
+RTL                                              http://radio.rtl.fr/rtl.asx
+RTL                                              http://streaming.radio.rtl.fr:80/rtl-1-44-96
+RTL / Lequipe                                    http://radio.rtl-lequipe.fr/rtlequipe.asx
+RTL 2                                            http://radio.rtl2.fr/playlist/rtl2_hq.asx
+RTL2                                             http://streaming.radio.rtl2.fr:80/rtl2-1-44-96
+RTN radio                                        http://www.rtn.ch/RTN/live/rtn128k.aspx
+Skyrock                                          http://cache.yacast.fr/V4/skyrock/skyrock.asx
+Sud FM                                           http://www.sudfm.net/listen.asx
+Vibration                                        http://broadcast.infomaniak.ch/player/player.swf?sLive=vibration
+Virgin radio                                     http://viphttp.yacast.fr/V4/virgin/virgin.asx
+Virgin radio hard rock                           mms://viplagardere.yacast.net/vra_webradio07
+Virgin radio new wave 80                         mms://viplagardere.yacast.net/vra_webradio05
+Virgin radio rock alternative                    mms://viplagardere.yacast.net/vra_webradio01
+Virgin radio rock classic 70                     mms://viplagardere.yacast.net/vra_webradio03
+Virgin radio rock UK 80                          mms://viplagardere.yacast.net/vra_webradio06
+Virgin radio rock US 80                          mms://viplagardere.yacast.net/vra_webradio04
+Virgin radio scene francaise                     mms://viplagardere.yacast.net/vra_webradio02
+Voltage                                          http://broadcast.infomaniak.ch/player/player.swf?sLive=start-voltage

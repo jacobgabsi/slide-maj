@@ -1,0 +1,680 @@
+43.55;7.02	Cannes
+49.01;2.36	Saint-Brice-sous-Forêt
+25.89;-80.12	Bal Harbour Village États-Unis d'Amérique
+32.08;34.77	Tel-Aviv Israël
+32.07;34.77	Tel-Aviv Israël
+31.78;35.22	Jérusalem Israël
+31.81;34.64	Ashdod Israël
+35.85;-115.49	Clark County États-Unis d'Amérique
+43.55;7.01	Cannes
+32.33;34.85	Netanya Israël
+32.30;34.86	Netanya Israël
+25.80;-80.20	Miami États-Unis d'Amérique
+26.05;-80.21	Broward County États-Unis d'Amérique
+25.93;-80.13	Sunny Isles Beach États-Unis d'Amérique
+48.98;2.30	Soisy-sous-Montmorency
+36.49;-4.96	Marbella Espagne
+25.77;-80.13	Miami Beach États-Unis d'Amérique
+31.62;-8.01	Marrakech Maroc
+36.51;-4.93	Marbella Espagne
+36.42;25.43	Δημοτική Ενότητα Θήρας Grèce
+36.12;-115.17	Paradise États-Unis d'Amérique
+42.61;8.87	
+36.13;-115.17	Winchester États-Unis d'Amérique
+31.62;-8.00	Marrakech Maroc
+21.15;-86.77	
+21.14;-86.75		mx	Mexique
+21.15;-86.78		mx	Mexique
+48.98;2.30	Soisy-sous-Montmorency	fr	France
+43.75;7.44	Roquebrune-Cap-Martin	fr	France
+31.62;-8.00	Marrakech	ma	Maroc
+21.15;-86.77		mx	Mexique
+21.14;-86.79	Cancún	mx	Mexique
+31.81;34.64	Ashdod	il	Israël
+36.38;25.43	Δημοτική Ενότητα Θήρας	gr	Grèce
+40.81;-73.96	New York	us	États-Unis d'Amérique
+42.57;8.76		fr	France
+25.90;-80.13	Comté de Miami-Dade	us	États-Unis d'Amérique
+48.86;2.20	Rueil-Malmaison	fr	France
+25.09;55.14	Doubaï	ae	Émirats arabes unis
+21.13;-86.74		mx	Mexique
+25.80;-80.20	Miami	us	États-Unis d'Amérique
+43.55;7.03	Cannes	fr	France
+25.08;55.37	Doubaï	ae	Émirats arabes unis
+25.11;55.11	Doubaï	ae	Émirats arabes unis
+36.49;-4.95	Marbella	es	Espagne
+31.62;-8.01	Marrakech	ma	Maroc
+31.70;-7.94	Ouahat Sidi Brahim	ma	Maroc
+31.70;-7.93	Ouahat Sidi Brahim	ma	Maroc
+43.16;5.73	La Cadière-d'Azur	fr	France
+36.49;-4.96	Marbella	es	Espagne
+43.55;7.02	Cannes	fr	France
+36.51;-4.89	Marbella	es	Espagne
+21.14;-86.74		mx	Mexique
+48.87;2.35	Paris	fr	France
+21.15;-86.79		mx	Mexique
+48.89;2.29	Levallois-Perret	fr	France
+40.87;-73.91	New York	us	États-Unis d'Amérique
+25.79;-80.18	Miami	us	États-Unis d'Amérique
+21.00;-86.86	Cancún	mx	Mexique
+43.53;6.95		fr	France
+43.51;7.04		fr	France
+21.21;-86.72	Isla Mujeres	mx	Mexique
+26.05;-80.21	Broward County	us	États-Unis d'Amérique
+43.55;7.14	Antibes	fr	France
+25.24;55.34	ديرة	ae	Émirats arabes unis
+36.10;-115.17	Paradise	us	États-Unis d'Amérique
+16.22;-61.40	Sainte-Anne	fr	France
+43.51;6.94		fr	France
+36.04;-115.03	Henderson	us	États-Unis d'Amérique
+43.74;7.43	Monaco	mc	Monaco
+41.37;2.19	Sant Boi de Llobregat	es	Espagne
+25.89;-80.13	Bay Harbor Islands	us	États-Unis d'Amérique
+21.17;-86.76		mx	Mexique
+36.13;-115.17	Winchester	us	États-Unis d'Amérique
+25.93;-80.13	Sunny Isles Beach	us	États-Unis d'Amérique
+48.99;2.36	Saint-Brice-sous-Forêt	fr	France
+21.16;-86.77		mx	Mexique
+49.01;2.36	Saint-Brice-sous-Forêt	fr	France
+32.30;34.86	Netanya	il	Israël
+32.33;34.85	Netanya	il	Israël
+36.42;25.43	Δημοτική Ενότητα Θήρας	gr	Grèce
+25.84;-80.17	Miami	us	États-Unis d'Amérique
+43.55;7.01	Cannes	fr	France
+24.98;55.03	Doubaï	ae	Émirats arabes unis
+36.12;-115.17	Paradise	us	États-Unis d'Amérique
+49.00;2.58	Mitry-Mory	fr	France
+32.08;34.77	Tel-Aviv	il	Israël
+32.07;34.77	Tel-Aviv	il	Israël
+32.31;34.84	Netanya	il	Israël
+41.41;2.15	Barcelone	es	Espagne
+42.61;8.86		fr	France
+25.95;-80.12	Sunny Isles Beach	us	États-Unis d'Amérique
+32.17;34.83	Herzliya	il	Israël
+42.61;8.87		fr	France
+21.22;-86.73	Isla Mujeres	mx	Mexique
+48.93;2.32	Gennevilliers	fr	France
+48.93;2.33	Villeneuve-la-Garenne	fr	France
+49.01;2.35	Saint-Brice-sous-Forêt	fr	France
+43.74;7.42	Beausoleil	fr	France
+49.00;2.57	Tremblay-en-France	fr	France
+40.74;-73.95	New York	us	États-Unis d'Amérique
+32.09;34.77	Tel-Aviv	il	Israël
+25.81;-80.13	Miami Beach	us	États-Unis d'Amérique
+25.13;55.17	Doubaï	ae	Émirats arabes unis
+48.85;2.78	Serris	fr	France
+35.85;-115.49	Clark County	us	États-Unis d'Amérique
+31.78;35.22	Jérusalem	il	Israël
+31.78;35.23	Jérusalem	il	Israël
+25.25;55.35	ديرة	ae	Émirats arabes unis
+25.81;-80.19	Miami	us	États-Unis d'Amérique
+25.82;-80.12	Miami Beach	us	États-Unis d'Amérique
+21.14;-86.78	Cancún	mx	Mexique
+40.75;-73.98	New York	us	États-Unis d'Amérique
+36.13;-115.16	Winchester	us	États-Unis d'Amérique
+42.60;8.81	Lumio	fr	France
+25.10;55.15	Doubaï	ae	Émirats arabes unis
+43.13;5.75		fr	France
+43.14;5.76	Bandol	fr	France
+48.78;2.47	Créteil	fr	France
+25.12;55.16	Doubaï	ae	Émirats arabes unis
+36.48;-4.96	Marbella	es	Espagne
+21.16;-86.76		mx	Mexique
+36.51;-4.93	Marbella	es	Espagne
+43.54;7.04	Cannes	fr	France
+25.12;55.15	Doubaï	ae	Émirats arabes unis
+25.77;-80.13	Miami Beach	us	États-Unis d'Amérique
+48.87;2.34	Paris	fr	France
+48.98;2.31	Montmorency	fr	France
+48.87;2.30	Paris	fr	France
+35.86;-115.49	Clark County	us	États-Unis d'Amérique
+32.07;34.76	Tel-Aviv	il	Israël
+25.89;-80.12	Bal Harbour Village	us	États-Unis d'Amérique
+48.89;2.11	Le Pecq	fr	France
+31.60;-8.02	Marrakech	ma	Maroc
+31.57;-7.98	Tasoultante	ma	Maroc
+36.40;25.49	Δημοτική Ενότητα Θήρας	gr	Grèce
+36.11;-115.17	Paradise	us	États-Unis d'Amérique
+21.19;-86.73		mx	Mexique
+48.87;2.31	Paris	fr	France
+48.86;2.40	Paris	fr	France
+27.80;-15.73	Mogán	es	Espagne
+31.66;-7.87	Oulad Hassoun	ma	Maroc
+48.97;2.30	Enghien-les-Bains	fr	France
+48.86;2.29	Paris	fr	France
+43.57;7.11	Antibes	fr	France
+5.55;73.46	Faadhippolhu	mv	Maldives
+32.07;34.78	Tel-Aviv	il	Israël
+48.82;2.44	Paris	fr	France
+0.54;73.09	Atoll Huvadhu Sud	mv	Maldives
+5.55;73.47	Faadhippolhu	mv	Maldives
+48.89;2.27	Neuilly-sur-Seine	fr	France
+41.59;9.28	Porto-Vecchio	fr	France
+41.55;9.31	Porto-Vecchio	fr	France
+24.99;55.02	Al Wajeha Al Bahriya	ae	Émirats arabes unis
+16.39;-61.51	Petit-Canal	fr	France
+32.35;34.87	District centre	il	Israël
+41.53;9.28		fr	France
+25.80;-80.13	Miami Beach	us	États-Unis d'Amérique
+3.82;73.42	Atoll Malé	mv	Maldives
+48.90;2.29	Levallois-Perret	fr	France
+41.39;2.20	Barcelone	es	Espagne
+32.10;34.82	Tel-Aviv	il	Israël
+38.93;1.39	Sant Antoni de Portmany	es	Espagne
+48.75;2.36	Rungis	fr	France
+48.87;2.33	Paris	fr	France
+25.79;-80.13	Miami Beach	us	États-Unis d'Amérique
+32.41;34.90	Hadera	il	Israël
+37.41;25.35	Municipality of Mykonos	gr	Grèce
+3.97;73.50	Atoll Malé	mv	Maldives
+25.79;-80.14	Miami Beach	us	États-Unis d'Amérique
+29.53;34.94	Eilat	il	Israël
+25.78;-80.13	Miami Beach	us	États-Unis d'Amérique
+25.08;-77.32	New Providence	bs	Bahamas
+48.88;2.30	Paris	fr	France
+43.51;6.95		fr	France
+48.88;2.27	Neuilly-sur-Seine	fr	France
+41.54;9.27	Porto-Vecchio	fr	France
+-22.97;-43.17	Rio de Janeiro	br	Brésil
+48.98;2.35	Groslay	fr	France
+3.49;72.80	Atoll Ari Sud	mv	Maldives
+44.18;7.16	Isola	fr	France
+43.69;7.27		fr	France
+43.69;7.28		fr	France
+25.21;55.28	Deira	ae	Émirats arabes unis
+-22.96;-43.17	Rio de Janeiro	br	Brésil
+3.81;73.41	Atoll Malé	mv	Maldives
+16.36;-61.63	Guadeloupe	fr	France
+40.76;-73.95	New York	us	États-Unis d'Amérique
+21.03;-86.78		mx	Mexique
+36.36;25.39	Firá	gr	Grèce
+48.96;2.32	Deuil-la-Barre	fr	France
+20.87;-87.07	Puerto Morelos	mx	Mexique
+48.87;2.29	Paris	fr	France
+21.13;-86.75	Cancún	mx	Mexique
+20.20;-87.47	Tulum	mx	Mexique
+48.88;2.35	Paris	fr	France
+45.43;12.34	Lido	it	Italie
+41.50;9.27		fr	France
+41.39;9.16	Bonifacio / Bunifaziu	fr	France
+37.45;25.44	Municipality of Mykonos	gr	Grèce
+45.44;12.34	Lido	it	Italie
+45.44;12.33	Lido	it	Italie
+32.06;34.77	Tel-Aviv	il	Israël
+21.26;-86.75	Isla Mujeres	mx	Mexique
+37.45;25.33	Municipality of Mykonos	gr	Grèce
+3.82;73.41	Atoll Malé	mv	Maldives
+31.20;35.36	Conseil régional de Tamar	il	Israël
+20.63;-87.07	Playa del Carmen	mx	Mexique
+20.36;-87.34	Tulum	mx	Mexique
+48.84;2.36	Paris	fr	France
+48.92;2.33	L'Île-Saint-Denis	fr	France
+3.00;73.00	Atoll Nilandhe Sud	mv	Maldives
+40.10;-74.06	Brielle	us	États-Unis d'Amérique
+37.43;25.40	Municipality of Mykonos	gr	Grèce
+37.44;25.42	Municipality of Mykonos	gr	Grèce
+43.73;7.42	Monaco	mc	Monaco
+43.73;7.41	Monaco	mc	Monaco
+49.88;1.90	Hornoy-le-Bourg	fr	France
+37.41;25.37	Mykonos	gr	Grèce
+0.54;73.10	Atoll Huvadhu Sud	mv	Maldives
+36.50;-4.92	San Pedro Alcántara	es	Espagne
+0.52;73.07	Thinadhoo	mv	Maldives
+0.59;73.10	Atoll Huvadhu Nord	mv	Maldives
+45.43;12.33	Lido	it	Italie
+48.89;2.30	Paris	fr	France
+43.51;7.05		fr	France
+34.01;-118.50	Santa Monica	us	États-Unis d'Amérique
+43.72;7.42		fr	France
+21.12;-86.75		mx	Mexique
+32.45;34.94	Hadera	il	Israël
+18.11;-63.04	Marigot	fr	France
+43.83;6.97	Gréolières	fr	France
+29.55;34.96	Eilat	il	Israël
+29.55;34.97	Eilat	il	Israël
+48.81;2.43	Maisons-Alfort	fr	France
+17.20;-88.65	Cayo	bz	Belize
+25.88;-80.15	Comté de Miami-Dade	us	États-Unis d'Amérique
+25.85;-80.17	Miami	us	États-Unis d'Amérique
+40.55;14.23	Anacapri	it	Italie
+31.20;35.37	Conseil régional de Tamar	il	Israël
+3.68;73.42	Atoll Felidhu	mv	Maldives
+41.39;2.17	Barcelone	es	Espagne
+43.42;6.73	Fréjus	fr	France
+49.01;2.57	Le Mesnil-Amelot	fr	France
+48.97;2.31	Enghien-les-Bains	fr	France
+40.69;-73.74	New York	us	États-Unis d'Amérique
+-22.98;-43.21	Rio de Janeiro	br	Brésil
+48.99;2.64	Mitry-Mory	fr	France
+25.08;55.12	Doubaï	ae	Émirats arabes unis
+25.11;55.14	Doubaï	ae	Émirats arabes unis
+25.79;-80.19	Miami	us	États-Unis d'Amérique
+5.54;73.46	Faadhippolhu	mv	Maldives
+24.94;55.72	Al Dafain	ae	Émirats arabes unis
+48.85;2.39	Paris	fr	France
+41.53;9.27	Porto-Vecchio	fr	France
+28.46;-81.47	Orlando	us	États-Unis d'Amérique
+37.43;25.41	Mykonos Regional Unit	gr	Grèce
+36.42;25.43	Firá	gr	Grèce
+24.96;55.70	Al Dafain	ae	Émirats arabes unis
+25.20;55.28	Deira	ae	Émirats arabes unis
+43.67;7.10	Villeneuve-Loubet	fr	France
+25.18;55.26	Doubaï	ae	Émirats arabes unis
+31.62;-7.99	Marrakech	ma	Maroc
+43.54;7.03	Cannes	fr	France
+32.11;34.89	Petah Tikva	il	Israël
+43.70;7.28	Nice	fr	France
+32.70;35.51	Yavnéel	il	Israël
+32.70;35.50	Yavnéel	il	Israël
+0.57;73.10	Atoll Huvadhu Nord	mv	Maldives
+0.55;73.10	Atoll Huvadhu Nord	mv	Maldives
+45.49;12.33	Favaro Veneto	it	Italie
+4.19;73.53	Hulhumalé	mv	Maldives
+21.25;-86.75		mx	Mexique
+18.41;-77.12	Ocho Rios	jm	Jamaïque
+18.41;-77.13	Ocho Rios	jm	Jamaïque
+18.73;-87.69	Mahahual	mx	Mexique
+37.42;25.39	Mykonos	gr	Grèce
+48.98;2.34	Deuil-la-Barre	fr	France
+21.09;-86.77	Cancún	mx	Mexique
+25.20;55.27	Doubaï	ae	Émirats arabes unis
+48.90;2.28	Levallois-Perret	fr	France
+3.85;73.45	Atoll Malé	mv	Maldives
+24.43;54.64	Al Matar	ae	Émirats arabes unis
+25.23;55.26	Deira	ae	Émirats arabes unis
+21.03;-86.79		mx	Mexique
+24.43;54.65	Al Matar	ae	Émirats arabes unis
+24.44;54.64	Al Matar	ae	Émirats arabes unis
+44.30;9.21	Santa Margherita Ligure	it	Italie
+48.86;2.31	Paris	fr	France
+48.81;2.71	Ferrières-en-Brie	fr	France
+32.24;35.01	Drom Hasharon	il	Israël
+3.81;73.42	Atoll Malé	mv	Maldives
+32.07;34.79	Tel-Aviv	il	Israël
+43.42;6.77	Saint-Raphaël	fr	France
+34.14;-118.35	Los Angeles County	us	États-Unis d'Amérique
+40.55;14.25	Capri	it	Italie
+40.54;14.22	Anacapri	it	Italie
+16.21;-61.51	Pointe-à-Pitre	fr	France
+18.55;-68.35	Punta Cana	do	République dominicaine
+31.63;-7.91	Al Ouidane	ma	Maroc
+25.14;55.13	Doubaï	ae	Émirats arabes unis
+48.85;2.43	Vincennes	fr	France
+48.85;2.42	Montreuil	fr	France
+48.86;2.25	Paris	fr	France
+49.01;2.56	Tremblay-en-France	fr	France
+48.97;2.59	Mitry-Mory	fr	France
+-22.83;-43.24	Rio de Janeiro	br	Brésil
+20.22;-87.43	Tulum	mx	Mexique
+20.22;-87.44	Tulum	mx	Mexique
+43.57;7.09		fr	France
+31.65;-7.92	Marrakech	ma	Maroc
+48.73;2.35	Paray-Vieille-Poste	fr	France
+21.14;-86.77	Cancún	mx	Mexique
+48.65;2.47	Étiolles	fr	France
+25.80;-80.28	Comté de Miami-Dade	us	États-Unis d'Amérique
+38.92;1.44	Ibiza	es	Espagne
+40.63;14.49	Positano	it	Italie
+25.88;-80.12	Surfside	us	États-Unis d'Amérique
+41.49;9.12	Figari	fr	France
+43.70;7.27	Nice	fr	France
+16.20;-61.49	Pointe-à-Pitre	fr	France
+27.79;-15.72	Mogán	es	Espagne
+32.33;34.86	Netanya	il	Israël
+48.81;2.44	Maisons-Alfort	fr	France
+25.13;55.12	Doubaï	ae	Émirats arabes unis
+37.47;25.31	Mykonos	gr	Grèce
+37.46;25.33	Municipality of Mykonos	gr	Grèce
+36.08;-115.17	Paradise	us	États-Unis d'Amérique
+25.13;55.20	Doubaï	ae	Émirats arabes unis
+25.12;55.20	Doubaï	ae	Émirats arabes unis
+41.56;9.34	Porto-Vecchio	fr	France
+9.54;100.07	Ko Samui District	th	Thaïlande
+45.45;12.35	Lido	it	Italie
+48.86;2.37	Paris	fr	France
+48.86;2.35	Paris	fr	France
+40.76;-73.98	New York	us	États-Unis d'Amérique
+17.20;-88.66	Cayo	bz	Belize
+26.07;-80.15	Broward County	us	États-Unis d'Amérique
+36.40;25.49	Firá	gr	Grèce
+36.40;25.38	Firá	gr	Grèce
+31.19;35.36	Conseil régional de Tamar	il	Israël
+-22.97;-43.19	Rio de Janeiro	br	Brésil
+43.00;6.21	Hyères	fr	France
+43.00;6.20	Hyères	fr	France
+38.88;1.40	Sant Josep de sa Talaia	es	Espagne
+32.06;34.79	Tel-Aviv	il	Israël
+31.60;35.00	Tarqumia	ps	Palestinian Territories
+37.44;25.33	Municipality of Mykonos	gr	Grèce
+38.72;1.47	Formentera	es	Espagne
+48.98;2.33	Deuil-la-Barre	fr	France
+40.71;-74.00	New York	us	États-Unis d'Amérique
+25.83;-80.17	Miami	us	États-Unis d'Amérique
+21.04;-86.80	Cancún	mx	Mexique
+21.09;-86.78	Cancún	mx	Mexique
+31.16;35.37	Conseil régional de Tamar	il	Israël
+48.81;2.47	Saint-Maur-des-Fossés	fr	France
+31.51;-7.95	Tasoultante	ma	Maroc
+32.08;34.78	Tel-Aviv	il	Israël
+32.08;34.79	Tel-Aviv	il	Israël
+32.77;35.55	District nord	il	Israël
+43.60;7.07	Antibes	fr	France
+43.60;7.03	Mougins	fr	France
+32.49;34.95	District de Haïfa	il	Israël
+43.70;7.12	Saint-Paul-de-Vence	fr	France
+3.81;73.38	Atoll Malé	mv	Maldives
+32.31;34.85	Netanya	il	Israël
+45.52;5.06	Savas-Mépin	fr	France
+45.67;5.06	Saint-Laurent-de-Mure	fr	France
+37.77;23.89	Saronide	gr	Grèce
+37.78;23.89	Kalyvia Thorikou Municipal Unit	gr	Grèce
+40.55;14.24	Capri	it	Italie
+25.81;-80.18	Miami	us	États-Unis d'Amérique
+48.88;2.37	Paris	fr	France
+32.27;34.84	Netanya	il	Israël
+48.88;2.36	Paris	fr	France
+49.01;2.59	Le Mesnil-Amelot	fr	France
+49.00;2.59	Mitry-Mory	fr	France
+49.09;2.41	Épinay-Champlâtreux	fr	France
+-22.98;-43.22	Rio de Janeiro	br	Brésil
+43.23;6.66	Ramatuelle	fr	France
+48.79;1.78	Galluis	fr	France
+41.38;2.17	Barcelone	es	Espagne
+25.84;-80.12	Miami Beach	us	États-Unis d'Amérique
+30.52;-9.69	Aourir	ma	Maroc
+37.81;23.80	Vari Municipal Unit	gr	Grèce
+41.61;9.28	Porto-Vecchio	fr	France
+48.86;2.30	Paris	fr	France
+41.50;9.14	Figari	fr	France
+21.05;-86.79	Cancún	mx	Mexique
+-22.98;-43.19	Rio de Janeiro	br	Brésil
+-22.99;-43.24	Rio de Janeiro	br	Brésil
+-22.99;-43.25	Rio de Janeiro	br	Brésil
+48.96;2.33	Montmagny	fr	France
+9.52;100.06		th	Thaïlande
+39.94;3.96	Citadelle	es	Espagne
+38.89;1.41		es	Espagne
+38.90;1.43		es	Espagne
+17.21;-88.65	Cayo	bz	Belize
+48.95;2.31	L'Île-Saint-Denis	fr	France
+43.03;6.15	Hyères	fr	France
+32.10;34.77	Tel-Aviv	il	Israël
+45.44;12.32	Lido	it	Italie
+49.00;2.36	Saint-Brice-sous-Forêt	fr	France
+32.17;34.80	District de Tel-Aviv	il	Israël
+21.08;-86.79	Cancún	mx	Mexique
+38.80;1.42		es	Espagne
+25.09;-77.33	New Providence	bs	Bahamas
+48.98;2.29	Eaubonne	fr	France
+37.42;25.37	Municipality of Mykonos	gr	Grèce
+43.55;7.13	Antibes	fr	France
+37.45;25.36	Municipality of Mykonos	gr	Grèce
+25.83;-80.18	Miami	us	États-Unis d'Amérique
+21.08;-86.77		mx	Mexique
+43.12;5.86	La Seyne-sur-Mer	fr	France
+37.42;25.40	Municipality of Mykonos	gr	Grèce
+25.83;-80.12	Miami Beach	us	États-Unis d'Amérique
+21.05;-86.80	Cancún	mx	Mexique
+27.79;-15.73		es	Espagne
+29.54;34.96		il	Israël
+29.54;34.95	Eilat	il	Israël
+48.99;2.19	Montigny-lès-Cormeilles	fr	France
+31.17;35.37	Conseil régional de Tamar	il	Israël
+20.87;-87.09	Puerto Morelos	mx	Mexique
+31.79;35.46	Megilot Yam HaMelakh Regional Council	ps	Palestinian Territories
+29.55;34.98	Aqaba	jo	Jordanie
+43.54;7.11		fr	France
+32.49;34.89	Côte de Carmel	il	Israël
+-22.98;-43.23	Rio de Janeiro	br	Brésil
+48.88;2.26	Paris	fr	France
+48.86;2.34	Paris	fr	France
+0.58;73.10	Atoll Huvadhu Nord	mv	Maldives
+17.44;-88.13	Belize District	bz	Belize
+17.47;-88.16	Belize District	bz	Belize
+25.07;55.31	Doubaï	ae	Émirats arabes unis
+41.59;9.30		fr	France
+25.80;-80.18	Miami	us	États-Unis d'Amérique
+48.88;2.34	Paris	fr	France
+-22.95;-43.16	Rio de Janeiro	br	Brésil
+32.28;34.89	Even-Yéhouda	il	Israël
+43.57;7.03	Le Cannet	fr	France
+20.29;-87.40	Tulum	mx	Mexique
+31.69;-7.98	Marrakech	ma	Maroc
+36.50;-4.93	San Pedro Alcántara	es	Espagne
+41.39;2.16	Barcelone	es	Espagne
+31.63;-7.99	Marrakech	ma	Maroc
+40.78;-73.96	New York	us	États-Unis d'Amérique
+40.74;-73.99	New York	us	États-Unis d'Amérique
+28.42;-81.47	Tangelo Park	us	États-Unis d'Amérique
+49.00;2.56	Tremblay-en-France	fr	France
+48.87;2.41	Paris	fr	France
+41.55;9.27	Porto-Vecchio	fr	France
+45.45;12.33	Lido	it	Italie
+32.48;34.89	Côte de Carmel	il	Israël
+48.88;2.28	Neuilly-sur-Seine	fr	France
+37.48;25.36	Municipality of Mykonos	gr	Grèce
+48.88;2.29	Paris	fr	France
+45.45;12.34	Lido	it	Italie
+34.02;-118.40	Culver City	us	États-Unis d'Amérique
+43.12;5.85	La Seyne-sur-Mer	fr	France
+43.12;5.84	Six-Fours-les-Plages	fr	France
+25.17;55.21	Doubaï	ae	Émirats arabes unis
+43.77;11.25	Florence	it	Italie
+20.99;-86.86	Cancún	mx	Mexique
+48.83;2.47	Nogent-sur-Marne	fr	France
+40.71;-74.01	New York	us	États-Unis d'Amérique
+48.73;2.37	Paray-Vieille-Poste	fr	France
+48.83;2.28	Issy-les-Moulineaux	fr	France
+41.38;2.18	Barcelone	es	Espagne
+43.01;6.23	Hyères	fr	France
+41.40;2.17	Barcelone	es	Espagne
+30.39;-9.60	Agadir	ma	Maroc
+30.33;-9.41	Temsia	ma	Maroc
+16.35;-61.53	Morne-à-l'Eau	fr	France
+16.28;-61.55	Baie-Mahault	fr	France
+18.07;-63.09	Marigot	fr	France
+32.30;34.84	Netanya	il	Israël
+48.89;2.39	Paris	fr	France
+32.83;34.97	Haïfa	il	Israël
+48.79;2.48	Saint-Maur-des-Fossés	fr	France
+48.86;2.28	Paris	fr	France
+48.96;2.27	Argenteuil	fr	France
+40.76;-73.99	New York	us	États-Unis d'Amérique
+21.11;-86.76	Cancún	mx	Mexique
+16.18;-61.68	Petit-Bourg	fr	France
+48.80;2.43	Maisons-Alfort	fr	France
+25.08;55.14	Doubaï	ae	Émirats arabes unis
+43.66;7.21	Nice	fr	France
+31.91;34.78	Ness Ziona	il	Israël
+31.92;34.78	Ness Ziona	il	Israël
+31.93;34.77	District centre	il	Israël
+48.86;2.44	Montreuil	fr	France
+25.24;55.37	Deira	ae	Émirats arabes unis
+3.85;73.46	Atoll Malé	mv	Maldives
+48.86;2.36	Paris	fr	France
+49.03;2.34	Domont	fr	France
+49.00;2.35	Saint-Brice-sous-Forêt	fr	France
+48.91;2.41	Aubervilliers	fr	France
+21.10;-86.77	Cancún	mx	Mexique
+48.97;2.52	Villepinte	fr	France
+49.01;2.28	Montlignon	fr	France
+49.02;2.24	Saint-Leu-la-Forêt	fr	France
+41.90;12.48	Rome	it	Italie
+48.85;2.32	Paris	fr	France
+25.89;-80.16	North Miami	us	États-Unis d'Amérique
+25.86;-80.16	Miami Shores	us	États-Unis d'Amérique
+48.88;2.32	Paris	fr	France
+39.93;3.93		es	Espagne
+48.95;2.32	Épinay-sur-Seine	fr	France
+25.14;55.12	Doubaï	ae	Émirats arabes unis
+17.47;-88.17	Belize District	bz	Belize
+43.44;6.90		fr	France
+43.66;7.20	Saint-Laurent-du-Var	fr	France
+21.04;-86.87	Cancún	mx	Mexique
+25.19;55.28	Doubaï	ae	Émirats arabes unis
+25.08;55.15	Doubaï	ae	Émirats arabes unis
+37.45;25.43	Municipality of Mykonos	gr	Grèce
+3.85;73.41	Atoll Malé	mv	Maldives
+25.24;55.36	Deira	ae	Émirats arabes unis
+25.25;55.36	Deira	ae	Émirats arabes unis
+48.87;2.32	Paris	fr	France
+49.61;1.53	Forges-les-Eaux	fr	France
+48.98;2.63	Mitry-Mory	fr	France
+25.16;55.63	Doubaï	ae	Émirats arabes unis
+32.34;34.86	Netanya	il	Israël
+37.43;25.33	Municipality of Mykonos	gr	Grèce
+43.55;7.12	Antibes	fr	France
+44.19;7.16	Isola	fr	France
+25.79;-80.27	Comté de Miami-Dade	us	États-Unis d'Amérique
+31.82;34.70	Hevel Yavne	il	Israël
+43.13;5.88	Ollioules	fr	France
+43.54;7.13		fr	France
+21.08;-86.78	Cancún	mx	Mexique
+32.33;34.87	Netanya	il	Israël
+40.72;-73.92	New York	us	États-Unis d'Amérique
+40.67;-73.94	New York	us	États-Unis d'Amérique
+40.77;-73.97	New York	us	États-Unis d'Amérique
+40.77;-73.98	New York	us	États-Unis d'Amérique
+40.70;-74.03	Jersey City	us	États-Unis d'Amérique
+25.81;-80.14	Miami Beach	us	États-Unis d'Amérique
+25.81;-80.12	Miami Beach	us	États-Unis d'Amérique
+48.93;2.35	Saint-Denis	fr	France
+16.42;-61.53	Port-Louis	fr	France
+51.22;4.42	Anvers	be	Belgique
+25.08;-77.34	New Providence	bs	Bahamas
+25.09;-77.32	New Providence	bs	Bahamas
+32.06;34.95	Drom Hasharon	il	Israël
+3.98;73.50	Atoll Malé	mv	Maldives
+25.25;55.26	Deira	ae	Émirats arabes unis
+25.20;55.24	Doubaï	ae	Émirats arabes unis
+25.27;55.32	Deira	ae	Émirats arabes unis
+43.77;6.35	La Palud-sur-Verdon	fr	France
+29.56;34.96	Eilat	il	Israël
+29.53;34.95		il	Israël
+32.18;34.90	Kfar Saba	il	Israël
+16.22;-61.53	Pointe-à-Pitre	fr	France
+41.56;9.33	Porto-Vecchio	fr	France
+0.53;73.09	Atoll Huvadhu Sud	mv	Maldives
+5.54;73.45	Faadhippolhu	mv	Maldives
+20.77;-86.97	Playa del Carmen	mx	Mexique
+43.66;7.12	Villeneuve-Loubet	fr	France
+48.96;2.37	Stains	fr	France
+48.91;2.40	Pantin	fr	France
+48.87;2.28	Paris	fr	France
+-22.97;-43.18	Rio de Janeiro	br	Brésil
+37.45;25.37	Municipality of Mykonos	gr	Grèce
+40.56;14.24		it	Italie
+40.55;14.26		it	Italie
+-22.95;-43.21	Rio de Janeiro	br	Brésil
+36.39;25.39	Firá	gr	Grèce
+36.33;25.43	Thira Regional Unit	gr	Grèce
+28.47;-81.47	Orlando	us	États-Unis d'Amérique
+16.29;-61.56	Pointe-à-Pitre	fr	France
+31.58;-7.98	Mechouar Kasbah	ma	Maroc
+43.70;7.26	Nice	fr	France
+37.42;25.32	Municipality of Mykonos	gr	Grèce
+43.77;11.27	Florence	it	Italie
+45.50;12.34	Favaro Veneto	it	Italie
+21.13;-86.76	Cancún	mx	Mexique
+32.06;34.76	Tel-Aviv	il	Israël
+41.90;12.46	Rome	it	Italie
+40.64;-73.78	New York	us	États-Unis d'Amérique
+48.84;2.42	Saint-Mandé	fr	France
+43.47;6.73	Fréjus	fr	France
+25.18;-77.38	New Providence	bs	Bahamas
+26.09;-80.12	Hollywood	us	États-Unis d'Amérique
+18.76;-77.60			
+18.76;-77.59			
+40.55;14.22	Anacapri	it	Italie
+48.86;2.32	Paris	fr	France
+4.18;73.49	Atoll Malé	mv	Maldives
+41.48;9.29		fr	France
+48.98;2.37	Sarcelles	fr	France
+48.87;2.26	Paris	fr	France
+41.42;2.17	Barcelone	es	Espagne
+21.25;-86.74		mx	Mexique
+48.86;2.48	Fontenay-sous-Bois	fr	France
+48.92;2.32	Gennevilliers	fr	France
+25.89;-80.15	North Miami	us	États-Unis d'Amérique
+25.13;55.15	Doubaï	ae	Émirats arabes unis
+45.51;12.34	Favaro Veneto	it	Italie
+39.93;3.91	Citadelle	es	Espagne
+43.55;6.98	Cannes	fr	France
+18.72;-87.71	Mahahual	mx	Mexique
+18.73;-87.70	Mahahual	mx	Mexique
+17.44;-88.12	Belize District	bz	Belize
+17.49;-88.18	Belize District	bz	Belize
+31.71;-7.93	Ouahat Sidi Brahim	ma	Maroc
+48.98;2.28	Eaubonne	fr	France
+38.73;1.47		es	Espagne
+38.77;1.45		es	Espagne
+4.18;73.47	Malé	mv	Maldives
+4.18;73.48	Atoll Malé	mv	Maldives
+38.88;1.41		es	Espagne
+25.04;55.17	Al Thanyah 5	ae	Émirats arabes unis
+25.15;55.63	Al Wohoosh	ae	Émirats arabes unis
+49.00;2.37	Sarcelles	fr	France
+30.40;-9.60	Agadir	ma	Maroc
+43.78;11.26	Florence	it	Italie
+48.91;2.33	Saint-Ouen-sur-Seine	fr	France
+31.94;34.78	Ness Ziona	il	Israël
+32.28;34.85	Netanya	il	Israël
+25.09;55.13	Doubaï	ae	Émirats arabes unis
+48.90;2.42	Pantin	fr	France
+41.39;2.19	Barcelone	es	Espagne
+48.83;2.29	Paris	fr	France
+43.56;7.02	Cannes	fr	France
+48.85;1.44	Anet	fr	France
+36.38;25.43	Firá	gr	Grèce
+48.91;2.29	Asnières-sur-Seine	fr	France
+25.08;55.13	Doubaï	ae	Émirats arabes unis
+48.97;2.53	Villepinte	fr	France
+48.85;2.36	Paris	fr	France
+45.42;12.37	Lido	it	Italie
+32.71;35.50	Yavnéel	il	Israël
+36.44;25.35	Ia Municipal Unit	gr	Grèce
+32.30;34.89	District centre	il	Israël
+0.56;73.10	Atoll Huvadhu Nord	mv	Maldives
+25.08;-77.35	New Providence	bs	Bahamas
+44.31;9.21	Santa Margherita Ligure	it	Italie
+18.44;-77.12	Drax Hall	jm	Jamaïque
+48.90;2.41	Pantin	fr	France
+43.69;7.12	Saint-Paul-de-Vence	fr	France
+27.82;-15.77	Mogán	es	Espagne
+37.44;25.44	Mykonos Regional Unit	gr	Grèce
+43.02;6.16		fr	France
+48.88;2.31	Paris	fr	France
+41.51;9.29		fr	France
+30.53;-9.69	Taghazout	ma	Maroc
+49.02;2.29	Montlignon	fr	France
+48.99;2.31	Soisy-sous-Montmorency	fr	France
+39.93;3.92		es	Espagne
+48.57;2.50	Morsang-sur-Seine	fr	France
+4.19;73.52	Atoll Malé	mv	Maldives
+48.73;2.36	Paray-Vieille-Poste	fr	France
+41.50;9.28		fr	France
+3.90;73.47	Atoll Malé	mv	Maldives
+32.00;34.87	District centre	il	Israël
+3.91;73.47	Atoll Malé	mv	Maldives
+40.54;14.25		it	Italie
+4.13;73.53	Atoll Malé	mv	Maldives
+43.57;7.08	Vallauris	fr	France
+36.35;25.36	Thira Regional Unit	gr	Grèce
+3.90;73.46	Atoll Malé	mv	Maldives
+32.98;35.44	Conseil Régional Merom HaGalil	il	Israël
+28.36;-81.56	Bay Lake	us	États-Unis d'Amérique
+28.35;-81.59	Bay Lake	us	États-Unis d'Amérique
+28.36;-81.59	Bay Lake	us	États-Unis d'Amérique
+21.22;-86.74		mx	Mexique
+48.84;2.39	Paris	fr	France
+48.94;2.33	Villeneuve-la-Garenne	fr	France
+-22.97;-43.25	Rio de Janeiro	br	Brésil
+40.74;-73.98	New York	us	États-Unis d'Amérique
+49.02;2.69	Juilly	fr	France
+25.77;-80.19	Miami	us	États-Unis d'Amérique
+26.77;-80.11	Riviera Beach	us	États-Unis d'Amérique
+43.01;6.19		fr	France
+25.09;55.15	Doubaï	ae	Émirats arabes unis
+43.58;7.01	Le Cannet	fr	France
+45.24;6.78	Val-Cenis	fr	France
+3.82;73.40	Atoll Malé	mv	Maldives

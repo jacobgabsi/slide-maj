@@ -1,0 +1,160 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <!-- WPF : seulement pour animer les photos avec la carte graphique (AnimationPhoto.vb), ou
+         ses types sont ecrits avec leur nom complet (System.Windows...) : Application, Point,
+         Color... restent partout ailleurs ceux de Windows Forms. -->
+    <UseWPF>true</UseWPF>
+    <RootNamespace>slide</RootNamespace>
+    <AssemblyName>slide</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <StartupObject>slide.My.MyApplication</StartupObject>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Platforms>AnyCPU</Platforms>
+    <!-- 64 bits uniquement (demande de Jacob) : c'est ce qu'exigent de toute facon le MediaInfo
+         natif x64, le VLC livre dans data\VLC et le fournisseur Access ACE en 64 bits. -->
+    <PlatformTarget>x64</PlatformTarget>
+    <ApplicationIcon>jacob55.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app1.manifest</ApplicationManifest>
+    <!-- Le manifeste declare dpiAware=true : on garde le meme comportement qu'en 4.8 -->
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <!-- Options heritees du projet d'origine -->
+    <OptionExplicit>Off</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <OptionCompare>Binary</OptionCompare>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,CA1416,NU1701,WFO1000</NoWarn>
+  </PropertyGroup>
+
+  <!-- Le sous-dossier Lanceur est un projet a part (le petit Slide.exe en .NET Framework 4.8
+       qui installe .NET 10 au besoin). Sans cette exclusion, ce projet-ci ramasse ses sources
+       et ses fichiers temporaires : erreur de compilation. -->
+  <ItemGroup>
+    <Compile Remove="Publication\**;maj\**" />
+    <EmbeddedResource Remove="Publication\**;maj\**" />
+    <None Remove="Publication\**;maj\**" />
+    <Compile Remove="Lanceur\**" />
+    <EmbeddedResource Remove="Lanceur\**" />
+    <None Remove="Lanceur\**" />
+  </ItemGroup>
+
+  <!-- Imports globaux de namespaces (equivalent des <Import> du projet d'origine) -->
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Equivalents .NET des assemblies du Framework qui ne sont plus in-box -->
+    <PackageReference Include="System.Data.OleDb" Version="9.0.0" />
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="9.0.0" />
+    <!-- Dependances applicatives -->
+    <!-- Newtonsoft.Json remonte de 7.0.1 (transitif, vulnerable) a la version deja utilisee en 4.8 -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="Svg" Version="3.4.7" />
+    <PackageReference Include="MetadataExtractor" Version="2.9.0" />
+    <PackageReference Include="Zmanim" Version="1.5.0" />
+    <PackageReference Include="Zmanim.Olson" Version="1.5.0" />
+    <PackageReference Include="Two10.CountryLookup" Version="1.0.4.0" />
+    <PackageReference Include="MediaInfoNet" Version="0.3" />
+    <PackageReference Include="Vlc.DotNet.Forms" Version="3.1.0" />
+    <!-- WebView2 : le lecteur web de Deezer dans Slide (FormDeezer, MusiqueDeezer) -->
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4022.49" />
+  </ItemGroup>
+
+  <!-- CoreAudio.dll : wrapper manage de l'API Windows Core Audio, pas de package NuGet -->
+  <ItemGroup>
+    <Reference Include="CoreAudio">
+      <HintPath>libs\CoreAudio.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- MediaInfo natif x64 : MediaInfoDotNet (MediaFile) le charge par P/Invoke depuis le
+       dossier de l'exe. Le .targets du package MediaInfo.Native ne fonctionne qu'avec
+       packages.config et copie dans des sous-dossiers x86/x64, d'ou la copie explicite. -->
+  <ItemGroup>
+    <None Include="libs\native\x64\*.dll">
+      <Link>%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </None>
+  </ItemGroup>
+
+  <!-- COM : ADOX (creation/inspection des bases Access). Le lecteur Windows Media (WMPLib) a ete
+       retire : la musique passe desormais par VLC (MusiqueVLC.vb). -->
+  <ItemGroup>
+    <COMReference Include="ADOX">
+      <Guid>{00000600-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+
+  </ItemGroup>
+
+  <!-- Incremente le numero de version de 0,001 a chaque compilation reelle (comme PennyTop).
+       BeforeTargets="CoreCompile" et non AfterTargets="Build" : le numero est compile dans
+       l'exe (Module1.SlideVersion), il doit donc etre a jour AVANT que vbc ne lise les sources.
+       Le script ne fait rien si l'empreinte des sources n'a pas change. -->
+  <Target Name="IncrementeVersion" BeforeTargets="CoreCompile">
+    <Exec Command="powershell -NoProfile -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\bump_version.ps1&quot; &quot;$(MSBuildProjectDirectory)&quot;"
+          ContinueOnError="true" />
+  </Target>
+
+  <!-- Mises a jour a distance (14/10/2026 : "publier cette version a chaque compilation") : apres chaque
+       compilation reussie, le programme est publie (Slide-maj.zip + version.json) dans le dossier Publication,
+       que les autres postes lisent (voir MiseAJour.vb ; Cotations Web le sert par Tailscale).
+       Rien n'est publie si bin n'a pas la derniere compilation (Slide tournait : exe verrouille).
+       Pour compiler SANS publier : -p:PublierMaj=false. Le resultat est dans publier_maj.log. -->
+  <PropertyGroup>
+    <PublierMaj Condition="'$(PublierMaj)' == ''">true</PublierMaj>
+    <PublicationMaj Condition="'$(PublicationMaj)' == ''">$(MSBuildProjectDirectory)\Publication</PublicationMaj>
+  </PropertyGroup>
+  <Target Name="PublierLaMiseAJour" AfterTargets="Build" Condition="'$(PublierMaj)' == 'true'">
+    <Exec Command="powershell -NoProfile -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\publier_maj.ps1&quot; -ProjectDir &quot;$(MSBuildProjectDirectory)&quot; -OutDir &quot;$(MSBuildProjectDirectory)\$(OutDir).&quot; -ObjDir &quot;$(MSBuildProjectDirectory)\$(IntermediateOutputPath).&quot; -Publication &quot;$(PublicationMaj)&quot;"
+          ContinueOnError="true" />
+  </Target>
+
+  <!-- Generation du namespace My a partir des fichiers d'origine -->
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <None Update="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <!-- Portrait de l'ecran de demarrage (Form1), embarque dans l'exe -->
+  <ItemGroup>
+    <EmbeddedResource Include="Portrait.png" LogicalName="Portrait.png" />
+    <!-- Icone du programme, pour les fenetres (barre des taches, barre de titre) -->
+    <EmbeddedResource Include="jacob55.ico" LogicalName="jacob55.ico" />
+  </ItemGroup>
+
+</Project>
+

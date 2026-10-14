@@ -1,0 +1,66 @@
+{
+  "nom": "JacobTV",
+  "enregistree": "2026-11-13T10:04:37.6595180+01:00",
+  "lignes": [
+    {
+      "Actif": true,
+      "Jour": "Jeudi",
+      "Heure": "17:00",
+      "Type": "Volume",
+      "Action": "Volume OFF",
+      "Play": "",
+      "Durée": "",
+      "Volume": "",
+      "tri": "031700",
+      "Argument": ""
+    },
+    {
+      "Actif": true,
+      "Jour": "Vendredi",
+      "Heure": "13:00",
+      "Type": "Volume",
+      "Action": "Volume OFF",
+      "Play": "",
+      "Durée": "",
+      "Volume": "",
+      "tri": "041300",
+      "Argument": ""
+    },
+    {
+      "Actif": true,
+      "Jour": "Lun-Ven",
+      "Heure": "09:19",
+      "Type": "Deezer",
+      "Action": "Lance Deezer",
+      "Play": "Playlist...",
+      "Durée": "",
+      "Volume": "Default",
+      "tri": "070919",
+      "Argument": ""
+    },
+    {
+      "Actif": true,
+      "Jour": "Lun-Ven",
+      "Heure": "09:20",
+      "Type": "Volume",
+      "Action": "Volume ON",
+      "Play": "",
+      "Durée": "",
+      "Volume": "",
+      "tri": "070920",
+      "Argument": ""
+    },
+    {
+      "Actif": true,
+      "Jour": "Lun-Ven",
+      "Heure": "18:00",
+      "Type": "Volume",
+      "Action": "Volume OFF",
+      "Play": "",
+      "Durée": "",
+      "Volume": "",
+      "tri": "071800",
+      "Argument": ""
+    }
+  ]
+}

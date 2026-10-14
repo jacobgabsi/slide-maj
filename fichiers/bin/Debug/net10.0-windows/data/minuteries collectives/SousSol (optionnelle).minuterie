@@ -1,0 +1,55 @@
+{
+    "nom":  "SousSol (optionnelle)",
+    "poste":  "JACOBNUC",
+    "enregistree":  "11/27/2026 15:26:14",
+    "lignes":  [
+                   {
+                       "Actif":  true,
+                       "Jour":  "BOOT",
+                       "Heure":  "00:00",
+                       "Type":  "Tuya",
+                       "Action":  "Groupe HP_et_Videoprojecteur SousSol ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "000000",
+                       "Argument":  "!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "12:00",
+                       "Type":  "Tuya",
+                       "Action":  "Spot sous sol ping pong ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "051200",
+                       "Argument":  "!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "17:52",
+                       "Type":  "Tuya",
+                       "Action":  "Zigbee Gateway Led ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "051752",
+                       "Argument":  "!/HeureRegle:ShabbatSortie!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "SHUTDOWN",
+                       "Heure":  "00:00",
+                       "Type":  "Tuya",
+                       "Action":  "Groupe HP_et_Videoprojecteur SousSol OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "990000",
+                       "Argument":  "!/Groupe:Tuya"
+                   }
+               ]
+}

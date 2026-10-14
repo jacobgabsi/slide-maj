@@ -1,0 +1,55 @@
+{
+    "nom":  "JacobTV (optionnelle)",
+    "poste":  "JACOBTV",
+    "enregistree":  "2026-11-26T10:14:34.5562599+01:00",
+    "lignes":  [
+                   {
+                       "Actif":  true,
+                       "Jour":  "Vendredi",
+                       "Heure":  "13:00",
+                       "Type":  "Tuya",
+                       "Action":  "Bureau Tv lg old OFF ; Bureau Tv new OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "041300",
+                       "Argument":  "!/Compte:Cannes-Soisy-Bureau!/Maison:Bureau!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Lun-Ven",
+                       "Heure":  "09:19",
+                       "Type":  "Tuya",
+                       "Action":  "Bureau Tv lg old ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "070919",
+                       "Argument":  "!/Compte:Cannes-Soisy-Bureau!/Maison:Bureau!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Lun-Ven",
+                       "Heure":  "09:20",
+                       "Type":  "Tuya",
+                       "Action":  "Bureau Tv new ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "070920",
+                       "Argument":  "!/Compte:Cannes-Soisy-Bureau!/Maison:Bureau!/Groupe:Tuya"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Lun-Ven",
+                       "Heure":  "18:00",
+                       "Type":  "Tuya",
+                       "Action":  "Bureau Tv lg old OFF ; Bureau Tv new OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "071800",
+                       "Argument":  "!/Compte:Cannes-Soisy-Bureau!/Maison:Bureau!/Groupe:Tuya"
+                   }
+               ]
+}

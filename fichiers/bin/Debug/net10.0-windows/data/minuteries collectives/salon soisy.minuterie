@@ -1,0 +1,115 @@
+{
+    "nom":  "salon soisy",
+    "poste":  "MACMINI",
+    "enregistree":  "11/25/2026 18:59:20",
+    "lignes":  [
+                   {
+                       "Actif":  true,
+                       "Jour":  "BOOT",
+                       "Heure":  "00:00",
+                       "Type":  "TV",
+                       "Action":  "Chaine 13 :BFM TV",
+                       "Play":  "Pip:24% Bdroite",
+                       "Durée":  "",
+                       "Volume":  "0",
+                       "tri":  "000000",
+                       "Argument":  "!/Pip:True!/PipSize:0,24!/PipPosition:Bdroite!/PipX:0,998!/PipY:0,961"
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "00:59",
+                       "Type":  "Volume",
+                       "Action":  "Volume OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "050059",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "09:00",
+                       "Type":  "Volume",
+                       "Action":  "Volume ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "050900",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "14:00",
+                       "Type":  "Volume",
+                       "Action":  "Volume OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "051400",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "17:00",
+                       "Type":  "TV",
+                       "Action":  "Chaine 01 :TF1",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "55",
+                       "tri":  "051700",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  true,
+                       "Jour":  "Samedi",
+                       "Heure":  "17:00",
+                       "Type":  "Volume",
+                       "Action":  "Volume ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "051700",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  false,
+                       "Jour":  "Vendredi",
+                       "Heure":  "21:00",
+                       "Type":  "Volume",
+                       "Action":  "Volume OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "042100",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  false,
+                       "Jour":  "Vendredi",
+                       "Heure":  "22:00",
+                       "Type":  "Volume",
+                       "Action":  "Volume ON",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "042200",
+                       "Argument":  ""
+                   },
+                   {
+                       "Actif":  false,
+                       "Jour":  "Samedi",
+                       "Heure":  "17:00",
+                       "Type":  "Tuya",
+                       "Action":  "Applique Salon OFF",
+                       "Play":  "",
+                       "Durée":  "",
+                       "Volume":  "",
+                       "tri":  "051700",
+                       "Argument":  "!/Compte:Maison Soisy!/Maison:Maison Soisy!/Groupe:Tuya"
+                   }
+               ]
+}

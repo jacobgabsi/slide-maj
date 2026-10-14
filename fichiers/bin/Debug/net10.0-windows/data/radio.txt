@@ -1,0 +1,35 @@
+Lovely                                           http://lovely.ice.infomaniak.ch/lovely-128.mp3
+Heart80                                          https://icecast.thisisdax.com/Heart80sMP3
+Frequence 3                                      http://ice.stream.frequence3.net/frequence3-128.mp3
+Maxi France                                      http://stream.maxifrance.fr:8358/stream
+Radio Meuh                                       http://radiomeuh.ice.infomaniak.ch/radiomeuh-64.aac.m3u
+Radio RVA                                        http://rva.ice.infomaniak.ch/rva-high.mp3
+Elium Club Dance                                 http://streaming.radionomy.com/Elium-ClubDance
+radio 432 jazz                                   http://streaming.radionomy.com/AxelAime432Hz
+Addict Lounge                                    http://radio666.net:8000
+Addict Star                                      http://stream1.addictradio.net/addictstar.mp3
+Chante France                                    http://stream1.evasionfm.com/Chante_France
+Evasion FM                                       http://stream1.evasionfm.com/Yvelines
+FG Chic                                          http://radiofg.impek.com:80/fgc
+FG Non Stop                                      http://radiofg.impek.com/fge
+France Info                                      http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+GENERATION SOUL DISCO FUNK                       http://www.generationdiscofunk.com/pls/hd.m3u
+Radio serenity                                   http://streaming.radionomy.com/wiccaradio
+Rancho FM                                        http://streaming.radionomy.com/rancho
+C9 RADIO (Paris)                                 http://stream.c9.fr/c9.mp3
+Canal B                                          http://stream.levillage.org/canalb.m3u
+Free Wave Online                                 http://free.wave.online.fr/xmediaplayer/php/all.m3u
+Swiss Jazz                                       http://www.radioswissjazz.ch/live/mp3.m3u
+Swiss Pop                                        http://www.radioswisspop.ch/live/mp3.m3u
+Absolute Hits*                                   http://direct-radio.fr/files/absolute-hits.m3u
+Alouette                                         http://www.alouette.fr/alouette.m3u
+Cool Hits*                                       http://direct-radio.fr/files/cool-hits.m3u
+Hits my music Power*                             http://direct-radio.fr/files/hit-s-my-music-power.m3u
+Hits my music Zen*                               http://direct-radio.fr/files/hit-s-my-music-zen.m3u
+Just FM*                                         http://direct-radio.fr/files/just--fm.m3u
+M2 radio                                         http://direct-radio.fr/files/m2radio.m3u
+Puls radio                                       http://www.pulsradio.com/pls/puls-wmp.asx
+Radio classique                                  http://players.creacast.com/creacast/classique/playlist.m3u
+Radio Mozart                                     http://direct-radio.fr/files/radio-mozart.m3u
+Radio Smiley*                                    http://direct-radio.fr/files/radio-smiley.m3u
+Nostalgie HQ                                     https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=
